@@ -335,10 +335,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Contact & Support
 
-- **Project Repository**: https://github.com/Cyoda-platform/uruguay-climate-change
+- **Project Repository**: https://github.com/Cyoda/uruguay-climate-change
 - **Live Demo**: https://client-app-uruguay-climate-eb270b9abddf48108ee3a64e82fcebc3.eu.cyoda.net/
 - **Documentation**: See `docs/` directory
-- **Issues**: https://github.com/Cyoda-platform/uruguay-climate-change/issues
+- **Issues**: https://github.com/Cyoda/uruguay-climate-change/issues
 - **Discussions**: https://discord.com/invite/95rdAyBZr2
 
 ---
